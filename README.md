@@ -1,8 +1,7 @@
 # Hello there, I'm Obi - aka Sobri Wirandi 
 ## About me:
-- 🔭 I’m currently looking for job
-- 🌱 I’m currently learning HTML
-- 🤔 I’m looking for suggest for Graphic Design
+- 🔭 I’m currently a looking for job as Graphic Design
+- 🌱 I’m currently learning HTML and figma 
 - 💬 Ask me about anything
 - 📫 How to reach me: sobriwrndi@gmail.com
 
