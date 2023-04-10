@@ -17,7 +17,12 @@
 #### 1. [Aussie Centre](https://aussiecentre.com/) | Grapich Design & Web Content | Jakarta `2016 - 2023`
    - Create visual communications to convey messages in an effective manner.
    - Design web pages, brochures, logos, signs, other communication materials such as posters for Facebook and Instagram content.
-   
+   - Developed content calendars, Instagram feed designs, and social media calendars.
+   - Used graphic design software such as Photoshop, In-design, Illustrator, and Canva as required for the job.
+   - Created graphic designs for social media, banner advertisements, and other marketing collateral.
+   - Completed over 15 graphic design posts per day.
+   - Created posts and managed the company’s own social media accounts.
+
 #### 2. [FunAboutIndonesia](https://funaboutindonesia.com/) | Tour Consultant | Jakarta `2018-2022`
    - Completing various kinds of information for potential tourists starting from how to arrange travel documents, destination areas, traffic regulations that must be obeyed, clothes and some equipment that must be brought.
 - Give advice according to the available time and budget, the best tourist areas and the vehicles used.
