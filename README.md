@@ -31,7 +31,7 @@
 - Inform where tourists can buy the most recommended tour packages.
 - Provide all required complete and detailed information data related to the requested hotel room reservation.
 
-#### 3. [Ayooshow](https://ayooshow.com/) | CIC Content Excecutive Temporary | Jakarta `2021-2021`
+#### 3. [Ayooshow](https://ayooshow.com/) | CIC Content Excecutive Temporary | Jakarta `2021-2022`
 - Experience in working in Web/Ecomm/DigitalMarketing environments.
 - Commissioning and managing the development of AyooShow content to drive subscribers.
 - Working with digital and social media colleagues to research and write client social media, website, microsite, and digital game content.
